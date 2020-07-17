@@ -11,7 +11,7 @@
 	<groupId>com.learning.spring.cacheable</groupId>
 	<artifactId>spring-cacheable-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-caching-example</name>
+	<name>spring-ehcache-example</name>
 	<description>Demo project for Spring Boot Cacheable Application</description>
 
 	<properties>
